@@ -85,12 +85,6 @@ The project produced:
 - Cleaned CSV exports for downstream analysis
 - Infographic-based visual summaries for stakeholder reporting
 
-The cleaned dataset enabled analysis of:
-- Traffic flow patterns
-- Vehicle occupancy trends
-- Vehicle type distributions
-- Directional movement behaviour
-
 
 
 ## About the Author
